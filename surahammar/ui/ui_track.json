@@ -1,14 +1,24 @@
 {
-  "name": "Your First Circuit",
-  "description": "This is your first AC track.",
+  "name": "Surahammar",
+  "description": "This is Surahammars kommun made in Assetto Corsa. The map features Surahammar, Virsbo and Ramnäs.",
   "tags": [
-    "test",
+	"drift",
+    "freeroam",
+	"city",
+	"Sweden"
   ],
   "geotags": [
+	"59° 43′ 0″ N",
+	"16° 13′ 0″ E"
   ],
-  "country": "Your Country",
+  "country": "Sweden",
+  "city": "Surahammar",
+  "length": "69m",
+  "width": "6-14.5m",
   "pitboxes": "1",
-  "year": 2022,
-  "author": "Your Name",
+  "run": "clockwise",
+  "author": "Svante & Filip",
   "version": "1.0",
+  "url": "",
+  "year": 2024,
 }

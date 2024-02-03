@@ -1,0 +1,24 @@
+{
+  "name": "Surahammar",
+  "description": "This is Surahammars kommun made in Assetto Corsa. The map features Surahammar, Virsbo and Ramnäs.",
+  "tags": [
+	"drift",
+    "freeroam",
+	"city",
+	"Sweden"
+  ],
+  "geotags": [
+	"59° 43′ 0″ N",
+	"16° 13′ 0″ E"
+  ],
+  "country": "Sweden",
+  "city": "Surahammar",
+  "length": "69m",
+  "width": "6-14.5m",
+  "pitboxes": "1",
+  "run": "clockwise",
+  "author": "Svante & Filip",
+  "version": "1.1",
+  "url": "",
+  "year": 2024,
+}
